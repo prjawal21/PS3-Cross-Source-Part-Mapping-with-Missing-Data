@@ -1,0 +1,258 @@
+{
+  "assignments": [
+    {
+      "step_id": "10-10",
+      "assigned_meshes": [
+        "breather_20_imp",
+        "mesh_efd324"
+      ],
+      "confidence_score": 0.85,
+      "ambiguity_flag": false,
+      "notes": "Mapped 2 meshes via deterministic logic; VLM query was ambiguous but resolved via geometry (including Filler/Breather Plug and sight glass)"
+    },
+    {
+      "step_id": "10-20",
+      "assigned_meshes": [
+        "bolt_m6_21_neu",
+        "bolt_m6_31_final",
+        "sechskant.034",
+        "sechskant28 (2)",
+        "sechskant34_v3",
+        "skt_schr2"
+      ],
+      "confidence_score": 0.95,
+      "ambiguity_flag": false,
+      "notes": "Mapped 6 meshes via deterministic lexical + spatial coordinate boundaries (front cover outer bolt circle circle)"
+    },
+    {
+      "step_id": "10-30",
+      "assigned_meshes": [
+        "dowel.003",
+        "dowel_16_final",
+        "dowel_22_x",
+        "pin_loc.005_rev04"
+      ],
+      "confidence_score": 0.95,
+      "ambiguity_flag": false,
+      "notes": "Mapped 4 meshes via deterministic lexical + spatial coordinate boundaries"
+    },
+    {
+      "step_id": "20-10",
+      "assigned_meshes": [
+        "brg_cap_22_copy",
+        "endcap7 (2)"
+      ],
+      "confidence_score": 0.7,
+      "ambiguity_flag": false,
+      "notes": "Mapped 2 meshes via deterministic logic and confirmed by local VLM"
+    },
+    {
+      "step_id": "20-20",
+      "assigned_meshes": [
+        "cap_brg_07_rev04"
+      ],
+      "confidence_score": 0.95,
+      "ambiguity_flag": false,
+      "notes": "Mapped 1 meshes via deterministic lexical + spatial coordinate boundaries"
+    },
+    {
+      "step_id": "20-30",
+      "assigned_meshes": [
+        "body_x75",
+        "bolt_m6.022_copy",
+        "hexbolt7"
+      ],
+      "confidence_score": 0.95,
+      "ambiguity_flag": false,
+      "notes": "Mapped 3 meshes via deterministic lexical + spatial coordinate boundaries (drive-end mid-ring retaining bolts)"
+    },
+    {
+      "step_id": "20-40",
+      "assigned_meshes": [
+        "Object.662",
+        "oilseal.038_old_DONOTUSE",
+        "seal_plate.010_v3"
+      ],
+      "confidence_score": 0.7,
+      "ambiguity_flag": false,
+      "notes": "Mapped 3 meshes via deterministic logic and confirmed by local VLM"
+    },
+    {
+      "step_id": "20-50",
+      "assigned_meshes": [
+        "Object.086",
+        "Object.900",
+        "hel_gear_18_old_DONOTUSE",
+        "in_shaft2_copy",
+        "ritzel_03_final_FINAL2",
+        "solid_52"
+      ],
+      "confidence_score": 0.95,
+      "ambiguity_flag": false,
+      "notes": "Mapped 6 meshes via deterministic lexical + spatial coordinate boundaries"
+    },
+    {
+      "step_id": "20-60",
+      "assigned_meshes": [
+        "circlip_i.002_x",
+        "scheibe.021_x",
+        "thr_washer.003 (2)",
+        "thr_washer.010_rev04",
+        "washer_fl_19_v3"
+      ],
+      "confidence_score": 0.95,
+      "ambiguity_flag": false,
+      "notes": "Mapped 5 meshes via deterministic lexical + spatial coordinate boundaries"
+    },
+    {
+      "step_id": "30-10",
+      "assigned_meshes": [
+        "Object.676",
+        "body_x717",
+        "bolt_m6_09",
+        "bolt_m6_38_rev04",
+        "hexbolt.020_v3",
+        "hexbolt24_neu",
+        "hexbolt32_copy",
+        "sechskant29_imp",
+        "skt_schr.035_rev04",
+        "skt_schr35_x",
+        "skt_schr_32_neu"
+      ],
+      "confidence_score": 0.95,
+      "ambiguity_flag": false,
+      "notes": "Mapped 11 meshes via deterministic lexical + spatial coordinate boundaries"
+    },
+    {
+      "step_id": "30-20",
+      "assigned_meshes": [
+        "Object.417",
+        "Object.589",
+        "capscrw.037_rev04",
+        "capscrw21",
+        "capscrw_37",
+        "mesh_7784d5",
+        "mesh_b4502f",
+        "solid_33",
+        "zylschraube8_final",
+        "zylschraube_29_neu"
+      ],
+      "confidence_score": 0.95,
+      "ambiguity_flag": false,
+      "notes": "Mapped 10 meshes via deterministic lexical + spatial coordinate boundaries (DIN 912 socket cap screws on split line)"
+    },
+    {
+      "step_id": "30-30",
+      "assigned_meshes": [
+        "casing_ot12",
+        "gehaeuse_half_11",
+        "lagergehaeuse.007_final_FINAL2",
+        "lagergehaeuse.026_neu"
+      ],
+      "confidence_score": 0.7,
+      "ambiguity_flag": false,
+      "notes": "Mapped 4 meshes via deterministic logic and confirmed by local VLM"
+    },
+    {
+      "step_id": "30-40",
+      "assigned_meshes": [
+        "layshft.035 (2)",
+        "layshft6"
+      ],
+      "confidence_score": 0.95,
+      "ambiguity_flag": false,
+      "notes": "Mapped 2 meshes via deterministic lexical + spatial coordinate boundaries"
+    },
+    {
+      "step_id": "30-50",
+      "assigned_meshes": [
+        "cluster_blk14 (2)",
+        "gr_ring.023 (2)",
+        "helix_gr13_copy",
+        "helix_gr_02_rev04",
+        "helix_gr_08_x",
+        "idler_zw.013",
+        "idler_zw.033",
+        "mesh_e73f3a",
+        "radblock_25_old_DONOTUSE",
+        "schraegverz.008 (2)",
+        "zahnkranz1_copy"
+      ],
+      "confidence_score": 0.95,
+      "ambiguity_flag": false,
+      "notes": "Mapped 11 meshes via deterministic lexical + spatial coordinate boundaries"
+    },
+    {
+      "step_id": "30-60",
+      "assigned_meshes": [
+        "nadellager.034",
+        "nadellager_02_x",
+        "nadellager_39_x",
+        "needle_brg.014_final",
+        "needle_brg7_imp",
+        "needle_brg_36"
+      ],
+      "confidence_score": 0.95,
+      "ambiguity_flag": false,
+      "notes": "Mapped 6 meshes via deterministic lexical + spatial coordinate boundaries"
+    },
+    {
+      "step_id": "30-70",
+      "assigned_meshes": [
+        "Object.378",
+        "body_x348",
+        "body_x354",
+        "sicherungsring_39_old_DONOTUSE",
+        "snapring.006_final_FINAL2",
+        "snapring.033",
+        "solid_61"
+      ],
+      "confidence_score": 0.95,
+      "ambiguity_flag": false,
+      "notes": "Mapped 7 meshes via deterministic lexical + spatial coordinate boundaries"
+    },
+    {
+      "step_id": "40-10",
+      "assigned_meshes": [
+        "cplg_flg_04 (2)",
+        "key_par19_v3",
+        "key_par_10"
+      ],
+      "confidence_score": 0.7,
+      "ambiguity_flag": false,
+      "notes": "Mapped 3 meshes via deterministic logic and confirmed by local VLM"
+    },
+    {
+      "step_id": "40-20",
+      "assigned_meshes": [
+        "abtriebswelle_10",
+        "spur_out_04 (2)",
+        "zahnrad_gr.029"
+      ],
+      "confidence_score": 0.7,
+      "ambiguity_flag": false,
+      "notes": "Mapped 3 meshes via deterministic logic and confirmed by local VLM"
+    },
+    {
+      "step_id": "40-30",
+      "assigned_meshes": [
+        "Object.157",
+        "abschlussdeckel.018_imp",
+        "brg_cyl.030 (2)",
+        "brg_cyl14",
+        "brg_cyl_24 (2)",
+        "cap_brg3_final_FINAL2",
+        "dichthalter.033 (2)",
+        "montageflansch.012_final_FINAL2",
+        "montageflansch30_x",
+        "roller_brg.035_final",
+        "roller_brg_30_rev04",
+        "simmerring.023 (2)",
+        "wellendichtring1"
+      ],
+      "confidence_score": 0.95,
+      "ambiguity_flag": false,
+      "notes": "Mapped 13 meshes via deterministic lexical + spatial coordinate boundaries (B-side bearings, seals, caps, mountings)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.DS_Store
+*.log
+
+# Generated outputs are kept unless you want to ignore them
+# pipeline_output/
+# *.glb

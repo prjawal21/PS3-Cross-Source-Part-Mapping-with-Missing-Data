@@ -1,0 +1,7 @@
+numpy
+trimesh
+pdfplumber
+rapidfuzz
+pygltflib
+Pillow
+requests
